@@ -1,0 +1,11 @@
+C:\Users\Kamil\Desktop\dotnet\Translator\Translator\bin\Debug\Translator.exe.config
+C:\Users\Kamil\Desktop\dotnet\Translator\Translator\obj\Debug\Translator.exe
+C:\Users\Kamil\Desktop\dotnet\Translator\Translator\obj\Debug\Translator.pdb
+C:\Users\Kamil\Desktop\dotnet\Translator\Translator\bin\Debug\Translator.exe
+C:\Users\Kamil\Desktop\dotnet\Translator\Translator\bin\Debug\Translator.pdb
+C:\Users\Kamil\Desktop\dotnet\Translator\Translator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kamil\Desktop\dotnet\Translator\Translator\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kamil\Desktop\dotnet\Translator\Translator\obj\Debug\Translator.csprojResolveAssemblyReference.cache
+C:\Users\Kamil\Desktop\dotnet\Translator\Translator\obj\Debug\Translator.Tłumacz.resources
+C:\Users\Kamil\Desktop\dotnet\Translator\Translator\obj\Debug\Translator.Properties.Resources.resources
+C:\Users\Kamil\Desktop\dotnet\Translator\Translator\obj\Debug\Translator.csproj.GenerateResource.Cache
